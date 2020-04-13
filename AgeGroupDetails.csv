@@ -1,4 +1,4 @@
-﻿Sno,AgeGroup,TotalCases,Percentage,gender
+﻿Sno,male,TotalCases,Percentage,female
 1,0-9,22,3.18%,10
 2,10-19,27,3.90%,14
 3,20-29,172,24.86%,56
@@ -8,4 +8,4 @@
 7,60-69,89,12.86%,31
 8,70-79,28,4.05%,12
 9,>=80,10,1.45%,3
-10,Missing,9,1.30%,0
+10,Missing,300,1.30%,300
